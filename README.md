@@ -1,9 +1,13 @@
 # LegomindsBot
- Revision 2 of my Discord.js bot
+Update to LegomindsBot
+
+## Changelog:
+- Replaced old index.js with a streamlined, modular structure
+- Updated config.json
+- Uses Discord.js v12 
  
  ## Usage: 
  
 Installation: npm install --save discord.js | More docs at: https://discord.js.org
-Requires FFMPEG (Read more in docs)
 
 ## Feel free to use and adapt code.
